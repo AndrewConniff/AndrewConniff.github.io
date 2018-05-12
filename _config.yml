@@ -22,7 +22,7 @@ name                     : "Andrew Conniff"
 description              : "A developers journey; becoming a big data data engineer with AI and Machine Learning"
 url                      : "https://andrewconniff.github.io"
 baseurl                  : "/blog"
-repository               : # GitHub username/repo-name e.g. "AndrewConniff/andrewconniff.github.io"
+repository               : "AndrewConniff/andrewconniff.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Conniff"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "jekyll-logo.png"
   bio              : "A developers journey; becoming a big data data engineer with AI and Machine Learning"
   location         : "Seattle Area"
   email            :
@@ -117,7 +117,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "andrew-conniff-33375823" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
