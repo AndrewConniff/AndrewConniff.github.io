@@ -20,9 +20,9 @@ title                    : "AI Developer Blog"
 title_separator          : "-"
 name                     : "Andrew Conniff"
 description              : "A developers journey; becoming a big data data engineer with AI and Machine Learning"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://andrewconniff.github.io"
+baseurl                  : "/blog"
+repository               : # GitHub username/repo-name e.g. "AndrewConniff/andrewconniff.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -98,9 +98,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Andrew Conniff"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "A developers journey; becoming a big data data engineer with AI and Machine Learning"
   location         : "Seattle Area"
   email            :
   uri              :
